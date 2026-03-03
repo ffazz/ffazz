@@ -1,61 +1,86 @@
-<h1 align="center">✨ Fazl Abisha ✨</h1>
-<p align="center">where <b>creativity</b> meets <b>code</b>, and logic finds rhythm 🎸</p>
-
----
-
-### 🎭 About Me
-- 🎓 Computer Science @ BINUS University  
-- 💡 Blending **frontend development + UX design + creative tech**  
-- 🌀 Exploring **Next.js, TailwindCSS, Cloud, and Data Science**  
-- 🎶 Also fascinated by music, indie culture, and digital art  
-- 🌱 Currently leveling up on **Docker & System Design**  
-
----
-
-### ⚡ My Vibe
+<h1 align="center">Fazl Abisha</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=FF61F6&center=true&vCenter=true&width=435&lines=Frontend+Dev;UX+Explorer;Creative+Technologist;Always+Learning+%F0%9F%8C%9F" />
+Computer Science Student • Frontend Engineer • Data & Systems Enthusiast
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### About Me
+
+I build digital products with a strong focus on structure, clarity, and user experience.  
+My background combines frontend engineering, data analysis, and system-level thinking.
+
+Currently:
+- Business Analyst / Project Management Intern  
+- Frontend Developer – Large-scale Event Platform  
+- Exploring scalable architectures, data workflows, and cloud-native systems  
+
+I care about writing maintainable code, designing clean interfaces, and understanding how systems work end-to-end.
+
+---
+
+### Core Focus
+
+- Frontend Engineering (Next.js, TypeScript, Tailwind)
+- UX-driven Interface Development
+- Data Processing & Analysis (Python, Pandas)
+- System Design & Architecture Fundamentals
+- Cloud & Containerization (Docker)
+
+---
+
+### Selected Projects
+
+🔹 PaperPulse  
+Research-oriented platform concept focused on structured academic content processing and insight extraction.
+
+🔹 Frontend System Development  
+Multi-step, production-oriented interface built with Next.js App Router, modular components, and clean state management.
+
+🔹 Data Scraping & Performance Optimization  
+Python-based data extraction pipeline with cleaning, preprocessing, pivot analytics, and efficiency improvements.
+
+🔹 Scientific Computing Report  
+Numerical differentiation, Newton interpolation, and Romberg integration with analytical validation.
+
+🔹 Decoding Indie Rhythms  
+Data-driven research exploring tempo patterns and rhythmic complexity in indie music.
+
+---
+
+### Tech Stack
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ffazz&show_icons=true&theme=radical&hide_border=true" height="160" />
-  <img src="https://streak-stats.demolab.com?user=ffazz&theme=radical&hide_border=true" height="160" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,python,java,c,cpp,mysql,git,docker,figma" />
 </p>
 
 ---
 
-### 🎨 Tech Stack
+### GitHub Stats
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,python,java,c,cpp,mysql,git,figma" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ffazz&show_icons=true&theme=default&hide_border=true" height="160" />
+  <img src="https://streak-stats.demolab.com?user=ffazz&theme=default&hide_border=true" height="160" />
 </p>
 
 ---
 
-### 🌌 Highlighted Projects
-- 🔐 [Kamus Indonesia–Inggris](https://github.com/ffazz/kamus-indonesia-inggris) → Trie & Hash Table implementation in C  
-- 🎶 *Decoding Indie Rhythms* → Data-driven research on creativity in music  
-- 🌱 Smart Agriculture IoT → Network component design for smart farming  
-- 🧩 Scientific Computing Report → Newton Interpolation & Romberg Integration  
+### Connect
 
----
-
-### 🔗 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/fazlabisha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:fazlabisha@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://ffazz.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/fazlabisha">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:fazlabisha@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://ffazz.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-Website-000000?logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 🐍 Snake Contribution Graph
 <p align="center">
-  <img src="https://github.com/ffazz/ffazz/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+Focused on building systems that are structured, scalable, and intentional.
 </p>
-
----
-
-⭐ From [ffazz](https://github.com/ffazz) | 🎧 crafted with code & coffee
